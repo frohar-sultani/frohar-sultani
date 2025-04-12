@@ -1,30 +1,34 @@
-- 👋Hello, I'm Frohar Sultani
+<h1 align="center">Hi, I'm Frohar Sultani!</h1>
 
-Aspiring Web Designer from Afghanistan | student at Code to Inspire  
-Passionate about designing clean, elegant, and user-friendly websites.
+<p align="center">
+  Front-end Web Designer | Code to Inspire Student | Passionate about empowering women through technology
+</p>
 
-Skills
+---
+
+🔧 Skills
 - HTML5  
-- CSS3  
+- CSS3
+- Visual Studio Code 
 
-Currently Learning
+🌱 Currently Learning
 - Responsive Web Design  
-- UI/UX principles  
-- Git & GitHub  
-- Basics of web accessibility  
+- Bootstrap  
+- JavaScript  
+- jQuery  
 
-Looking to Collaborate On
+🤝 Looking to Collaborate On
 - Front-end design projects  
 - Simple websites for personal brands or small businesses  
-- Educational platforms for women
+- Educational platforms for women  
 
-Contact
-- Email:froharsultani28@gmail.com  
+ 💡 About Me
+I'm a web design student at [Code to Inspire](https://codetoinspire.org/) and I’m passionate about using design and technology to create beautiful, meaningful, and accessible websites — especially for women-led initiatives and small businesses.
+
+📫 How to Reach Me
+- Email: froharsultani28@gmail.com  
 - GitHub: [@frohar-sultani](https://github.com/frohar-sultani)
 
-"Each line of codes is a step toward a brighter future."
+✨ Fun Fact
+I believe design is not just about how it looks — it’s about how it feels and how it empowers.
 
-<!---
-frohar-sultani/frohar-sultani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
