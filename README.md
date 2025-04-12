@@ -19,7 +19,7 @@ Looking to Collaborate On
 - Educational platforms for women
 
 Contact
-- Email: [froharsultani28@gmail.com]  
+- Email:froharsultani28@gmail.com  
 - GitHub: [@frohar-sultani](https://github.com/frohar-sultani)
 
 "Each line of codes is a step toward a brighter future."
