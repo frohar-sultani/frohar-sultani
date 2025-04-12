@@ -22,10 +22,6 @@ Contact
 - Email: [froharsultani28@gmail.com]  
 - GitHub: [@frohar-sultani](https://github.com/frohar-sultani)
 
-Fun Fact
-Designing for me is more than pixels — it’s about creating experiences that feel like home.
----
-
 "Each line of codes is a step toward a brighter future."
 
 <!---
